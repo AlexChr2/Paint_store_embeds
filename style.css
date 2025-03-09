@@ -234,6 +234,18 @@ p.small-leftright-padding {
 	max-height: 40vh;
 }
 
+#productcont-closebutton {
+	/* align the button to the right */
+	display: flex;
+	margin-left: auto;
+
+	background-color: inherit;
+	text-align: right;
+	color: white;
+	font-size: xx-large;
+	margin-top: -20px;
+}
+
 /* mobile screens */
 @media screen and (max-width: 880px) {
 	.horz-flex-container {

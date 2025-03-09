@@ -18,6 +18,7 @@ const createProductsPage = (page_title) => {
 			<div id="productModal" class="modal">
 				<div class="modal-content">
 
+					<button id="productcont-closebutton">X</button>
 					<div class="horz-flex-container ridge-border product-padding" style="position: sticky;">
 						<div class="vert-flex-container">
 							<img id="productcont-image" class="product-image product-border" src=""/>

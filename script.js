@@ -194,6 +194,7 @@ document.addEventListener('DOMContentLoaded', () => {
 	const modal_name = document.getElementById('productcont-name');
 	const modal_desc = document.getElementById('productcont-desc');
 	const modal_amt = document.getElementById('productcont-amt');
+	const modal_closebutton = document.getElementById('productcont-closebutton');
 
 	function openModal(image, name, description, amount) {
 		modal.style.display = 'flex'; // Ensure modal is visible
@@ -223,4 +224,8 @@ document.addEventListener('DOMContentLoaded', () => {
 			closeModal();
 		}
 	};
+
+	modal_closebutton.onclick = function() {
+		closeModal();
+	}
 });
