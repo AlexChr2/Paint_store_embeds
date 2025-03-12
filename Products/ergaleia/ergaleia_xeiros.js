@@ -24,13 +24,6 @@ const Products = [
 		image: "https://i.imgur.com/w7MN5Mh.png",
 	},
 	{
-		name: "Μετροταινία BENMAN 71018",
-		description: "",
-		category: "Μέτρο",
-		amount: "",
-		image: "https://i.imgur.com/eHsWb6t.png",
-	},
-	{
 		name: "Benman Μυστρί",
 		description: "Μυστρί σοβατζήδων λοξό με ξύλινη λαβή και μεταλλική λάμα.",
 		category: "Μυστρί",
@@ -80,13 +73,6 @@ const Products = [
 		image: "https://i.imgur.com/EXxjSCx.png",
 	},
 	{
-		name: "Δίσκος Κοπής Μετάλλου Benman",
-		description: "Διάμετρος: 115 mm & 125 mm",
-		category: "Δίσκος Κοπής Μετάλλου",
-		amount: "",
-		image: "https://s6.imgcdn.dev/JTuxO.webp",
-	},
-	{
 		name: "Benman μαγνητικό αλφάδι LM12",
 		description: "Benman μαγνητικό Αλφάδι LΜ με δύο μάτια 40cm. Κατασκευασμένο από ανοξειδωμένο αλουμίνιο πάχους 1,30mm, δεν φθείρεται και δεν σκουριάζει, έχει ενσωματωμένος χάρακας ακριβείας, εξαιρετικής ποιότητας μαγνήτες, με πατενταρισμένα μάτια ακριβείας.",
 		category: "Αλφάδι",
@@ -106,20 +92,6 @@ const Products = [
 		category: "Πριόνι",
 		amount: "",
 		image: "https://s6.imgcdn.dev/JxbPO.webp",
-	},
-	{
-		name: "Benman Δεματικά Καλωδίων Μαύρα 100 Τεμάχια",
-		description: "Διαστάσεις: 100x2.5mm, 140x2.5mm, 200x2.5mm, 140x3.6mm, 200x3.6mm, 250x3.6mm, 300x3.6mm, 370x3.6mm, 200x4.8mm, 250x4.8mm, 300x4.8mm, 370x4.8mm, 200x7.6mm, 250x7.6mm, 300x7.6mm, 370x7.6mm.",
-		category: "Δεματικά",
-		amount: "",
-		image: "https://s6.imgcdn.dev/Jxm8g.webp",
-	},
-	{
-		name: "Benman Δεματικά Καλωδίων Λευκά 100 Τεμάχια",
-		description: "Διαστάσεις: 100x2.5mm, 140x2.5mm, 200x2.5mm, 140x3.6mm, 200x3.6mm, 250x3.6mm, 300x3.6mm, 370x3.6mm, 200x4.8mm, 250x4.8mm, 300x4.8mm, 370x4.8mm, 200x7.6mm, 250x7.6mm, 300x7.6mm, 370x7.6mm.",
-		category: "Δεματικά",
-		amount: "",
-		image: "https://s6.imgcdn.dev/JxFkv.webp",
 	},
 	/*===========
 	   FF Group
@@ -167,13 +139,6 @@ const Products = [
 		image: "https://i.imgur.com/YWj1L8c.png",
 	},
 	{
-		name: "FF GROUP Μετροταινία",
-		description: "Μέτροταινία ρολό με σύστημα power lock, ελαστική επένδυση και λάμα 16 mm, μήκους 3 μέτρων. Διαθέτει κλιπ ζώνης. Είναι με Αυτόματη Επαναφορά και Μαγνήτη 16mm x 3m.",
-		category: "Μέτρο",
-		amount: "",
-		image: "https://i.imgur.com/mnQoh7M.png",
-	},
-	{
 		name: "Συρματόβουρτσα Χειρός FF Group",
 		description: "",
 		category: "Συρματόβουρτσα",
@@ -188,28 +153,11 @@ const Products = [
 		image: "https://i.imgur.com/CmxWKcg.png",
 	},
 	{
-		name: "Δίσκος Κοπής Μετάλλου Inox FF Group",
-		description: "Φ125x1.0",
-		category: "Δίσκος Κοπής Μετάλλου",
-		amount: "",
-		image: "https://s6.imgcdn.dev/JT4Hn.webp",
-	},
-	{
 		name: "F.F. Group Μαγνητικό Κατσαβίδι Σταυρός",
 		description: "Κατσαβίδι σταυρός της εταιρείας F.F. Group, με μέγεθος μύτης PH0 και μήκος 60 χιλιοστά. Διαθέτει μαγνητική μύτη ώστε να κρατάει τις βίδες πριν την τοποθέτησή τους.",
 		category: "Κατσαβίδι",
 		amount: "",
 		image: "https://s6.imgcdn.dev/JTlIT.webp",
-	},
-	/*========
-	   Bosch
-	==========*/
-	{
-		name: "Σετ λάμες σέγας Bosch",
-		description: "Σετ λάμες σέγας Bosch ιδανικές για κοπή σε ξύλο. H συσκευασία περιλαμβάνει 5 τεμάχια.",
-		category: "Λάμες",
-		amount: "",
-		image: "https://s6.imgcdn.dev/JxddK.webp",
 	},
 	/*========
 	   Other
@@ -271,13 +219,6 @@ const Products = [
 		image: "https://i.imgur.com/XnC5GnA.png",
 	},
 	{
-		name: "Μέτρο Ρολό Giant Megalock KDS",
-		description: "Παραδοσιακό μοντέλο βαρέως τύπου για επαγγελματίες. Το κουμπί on-off, διακόπτης κλειδώματος κλειδώνει την ταινία σε οποιαδήποτε θέση και σε οποιοδήποτε σημείο. Ακρυλική επίστρωση. Ταινία μονής όψης. Άγκιστρο άκρου με 2 πριτσίνια.",
-		category: "Μέτρο",
-		amount: "",
-		image: "https://i.imgur.com/OpELcJd.png",
-	},
-	{
 		name: "L' Outil Parfait Ξύστρα Rigid Κοντή 65mm",
 		description: "Ξύστρα με ξύλινη λαβή, εξαιρετικής αντοχής από υψηλής ποιότητας μέταλλο.",
 		category: "Ξύστρα",
@@ -334,27 +275,6 @@ const Products = [
 		image: "https://i.imgur.com/8GEuAOK.png",
 	},
 	{
-		name: "Varta Αλκαλική Mπαταρία 23A 12V",
-		description: "",
-		category: "Μπαταρία",
-		amount: "",
-		image: "https://s6.imgcdn.dev/JTICg.webp",
-	},
-	{
-		name: "Toshiba High Power Μπαταρίες - ΑΑΑ",
-		description: "Toshiba AAA High Power Αλκαλικές Μπαταρίες. Η τεχνολογία που ενσωματώνεται στις μπαταρίες Toshiba AAA έχει σχεδιαστεί για να διαρκούν και να διαρκούν και να διαρκούν. Αποτελούν αξιόπιστες πηγές ενέργειας. Είναι συμβατές με όλες τις ψηφιακές συσκευές που δέχονται μπαταρίες τύπου AAA.",
-		category: "Μπαταρία",
-		amount: "",
-		image: "https://s6.imgcdn.dev/JTN7v.webp",
-	},
-	{
-		name: "Μπαταρία Varta Longlife Extra AAA",
-		description: "Αλκαλικές μπαταρίες Varta LongLife Extra, 1,5 Volt μέγεθος AAA, συσκευασία 4 τεμαχίων.Κατάλληλες για χρήση σε τηλεχειριστήρια τηλεοράσεων & Hi-Fi, φακούς και ρολόγια.",
-		category: "Μπαταρία",
-		amount: "",
-		image: "https://s6.imgcdn.dev/JTQLN.webp",
-	},
-	{
 		name: "Vorel Πιστόλι Σιλικόνης",
 		description: "Ελαφρύ πιστόλι σιλικόνης από σίδηρο που ταιριάζει στα τυπικά φυσίγγια 300 ml μήκους 230 mm με σιλικόνη ή κόλλα. Για τη συμπίεση πυκνών μαζών / κόλλας / σιλικόνων / στεγανωτικών, που χρησιμοποιούνται για εργασίες ανακαίνισης και φινιρίσματος. Χωρητικότητα σωλήνα 300 ml.",
 		category: "Πιστόλι Σιλικόνης",
@@ -376,34 +296,6 @@ const Products = [
 		image: "https://s6.imgcdn.dev/JTsVu.webp",
 	},
 	{
-		name: "Varta Μπαταρία Λιθίου 3V",
-		description: "Η premium μπαταρία Varta έχει σχεδιαστεί για να παρέχει αξιόπιστη ισχύ για μικρές ηλεκτρονικές συσκευές. Οι μπαταρίες προσφέρουν την υψηλότερη απόδοση για εφαρμογές παλμικής και συνεχούς εκφόρτισης. Όλα τα κουμπιά λιθίου Varta είναι συσκευασμένα για παιδιά και πληρούν τα υψηλότερα πρότυπα ασφαλείας. Εγγυημένη η καλύτερη ποιότητα και διάρκεια.",
-		category: "Μπαταρία",
-		amount: "",
-		image: "https://s6.imgcdn.dev/JTyoL.webp",
-	},
-	{
-		name: "Varta LongLife Power Αλκαλικές Μπαταρίες",
-		description: "",
-		category: "Μπαταρία",
-		amount: "",
-		image: "https://s6.imgcdn.dev/JTKsa.webp",
-	},
-	{
-		name: "TOSHIBA SUPER Αλκαλική Μπαταρία 9V",
-		description: "",
-		category: "Μπαταρία",
-		amount: "",
-		image: "https://s6.imgcdn.dev/JTP2w.webp",
-	},
-	{
-		name: "Toshiba Αλκαλικές Μπαταρίες Ρολογιών 1.5V 10τμχ",
-		description: "Σετ 10 μπαταριών για μικρές συσκευές όπως κομπιουτεράκια, ρολόγια, κλειδιά αυτοκινήτων και άλλα.",
-		category: "Μπαταρία",
-		amount: "",
-		image: "https://s6.imgcdn.dev/JTTHt.webp",
-	},
-	{
 		name: "Sola PTM5 Πλαστικό Αλφάδι",
 		description: "Αλφάδι μίνι μαγνητικό κατασκευασμένο από συμπαγές πλαστικό ABS. Περιέχει φιαλίδια ακρυλικού σωλήνα που είναι ανθεκτικά στη θραύση. Το αλφάδι έχει μαγνητική λωρίδα για δυνατό κράτημα σε μεταλλικές επιφάνειες. Είναι ανθεκτικό στο νερό, στην θερμότητα και στο κρύο. Μπορεί να εφαρμοστεί σε οριζόντια, κάθετη ακόμα και σε γωνία με κλίση 45°.",
 		category: "Αλφάδι",
@@ -418,22 +310,8 @@ const Products = [
 		image: "https://s6.imgcdn.dev/JSpjC.webp",
 	},
 	{
-		name: "Δίσκος Λείανσης Smirdex",
-		description: "Στρογγυλό Χωρίς Τρύπες Velcro 115mm & 125mm",
-		category: "Δίσκος Λείανσης",
-		amount: "",
-		image: "https://s6.imgcdn.dev/JrhJM.webp",
-	},
-	{
-		name: "Μπουντούζια Αλουμινίου Σέτ 100 Τεμ",
-		description: "Μπουντούζια Αλουμινίου (Σέτ 100 Τεμ) TECHBOSS. Ιδανική επιλογή για λινάτσες, μουσαμάδες και τεντόπανα.",
-		category: "Μπουντούζια",
-		amount: "",
-		image: "https://s6.imgcdn.dev/Jxe9n.webp",
-	},
-	{
 		name: "Αυτορυθμιζόμενο Γραμμικό Αλφάδι Laser",
-		description: "Παγώνει & σπάει τη σκουριά ενώ ταυτόχρονα λιπαίνει, κατευθυνόμενος ψεκασμός, με εξαιρετικές λιπαντικές ιδιότητες.",
+		description: "Λέιζερ σταυρού δύο ακτίνων (οριζόντια & κάθετη) εσωτερικού χώρου με εμβέλεια 15 μέτρα. Διαθέτει χειροκίvητη και αυτόματη λειτουργία. Με κλείδωμα εκκρεμούς.",
 		category: "Αλφάδι",
 		amount: "",
 		image: "https://s6.imgcdn.dev/pkO9S.webp",
@@ -444,84 +322,5 @@ const Products = [
 		category: "Ανιχνευτής",
 		amount: "",
 		image: "https://s6.imgcdn.dev/pkZJC.webp",
-	},
-	/* Ούπατ */
-	{
-		name: "Πλαστικά Βίσματα",
-		description: "Διαθέσιμα σε No6, No7, No8, No10.",
-		category: "Ούπατ",
-		amount: "",
-		image: "https://s6.imgcdn.dev/YDWAhg.webp",
-	},
-	{
-		name: "Βίσματα G\&B",
-		description: "Καλής ποιότητας βίσματα.",
-		category: "Ούπατ",
-		amount: "",
-		image: "https://s6.imgcdn.dev/YDWOPv.webp",
-	},
-	{
-		name: "Βίσματα Smart",
-		description: "Καλής ποιότητας βίσματα.",
-		category: "Ούπατ",
-		amount: "",
-		image: "https://s6.imgcdn.dev/YDWVkB.webp",
-	},
-	{
-		name: "Fischer Βίσματα",
-		description: "Άριστης ποιότητας βίσματα, με πολύ καλή εκτόνωση.",
-		category: "Ούπατ",
-		amount: "",
-		image: "https://s6.imgcdn.dev/YDW98q.webp",
-	},
-	/* Τέλος ούπατ */
-	{
-		name: "Ρόκα Στηρίγματα Καλωδίων",
-		description: "Διαθέσιμα σε πολλά διαφορετικά μεγέθη.",
-		category: "Ρόκα",
-		amount: "",
-		image: "https://s6.imgcdn.dev/YDWZ9N.webp",
-	},
-	{
-		name: "Νάιλον 4x5 Ψιλό",
-		description: "",
-		category: "Νάιλον",
-		amount: "",
-		image: "https://s6.imgcdn.dev/YDWfvu.webp",
-	},
-	{
-		name: "Νάιλον 4x5 Μεσαίο",
-		description: "",
-		category: "Νάιλον",
-		amount: "",
-		image: "https://s6.imgcdn.dev/YDWtqL.webp",
-	},
-	{
-		name: "Νάιλον 4x5 Χονδρό",
-		description: "",
-		category: "Νάιλον",
-		amount: "",
-		image: "https://s6.imgcdn.dev/YDWd4a.webp",
-	},
-	{
-		name: "Υαλόχαρτο σε Φύλλα",
-		description: "",
-		category: "Υαλόχαρτο",
-		amount: "",
-		image: "https://s6.imgcdn.dev/YDW30w.webp",
-	},
-	{
-		name: "Benman 1/4\" Μαγνητικός adaptor για στριφώνια",
-		description: "Διαθέσιμος για 8 mm, 10 mm και 13 mm.",
-		category: "Μαγνητικός adaptor",
-		amount: "",
-		image: "https://s6.imgcdn.dev/YDWLdt.webp",
-	},
-	{
-		name: "Μάσκα Κυπελλοειδής σωματιδίων άνθρακα",
-		description: "Προσφέρει προστασία από χρώματα και χρωστικές ουσίες – Σκληρή συγκόλληση και εργασία με λιωμένα μέταλλα – Σιδηρούχες και μη μεταλλουργικές βιομηχανίες- Λιπάσματα.",
-		category: "Μάσκα",
-		amount: "",
-		image: "https://s6.imgcdn.dev/YYcoB2.webp",
 	},
 ]
