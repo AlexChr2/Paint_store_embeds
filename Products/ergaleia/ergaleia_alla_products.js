@@ -59,36 +59,6 @@ const Products = [
 		image: "https://s6.imgcdn.dev/Jxe9n.webp",
 	},
 
-	/* Ούπατ */
-	{
-		name: "Πλαστικά Βίσματα",
-		description: "Διαθέσιμα σε No6, No7, No8, No10.",
-		category: "Ούπατ",
-		amount: "",
-		image: "https://s6.imgcdn.dev/YDWAhg.webp",
-	},
-	{
-		name: "Βίσματα G\&B",
-		description: "Καλής ποιότητας βίσματα.",
-		category: "Ούπατ",
-		amount: "",
-		image: "https://s6.imgcdn.dev/YDWOPv.webp",
-	},
-	{
-		name: "Βίσματα Smart",
-		description: "Καλής ποιότητας βίσματα.",
-		category: "Ούπατ",
-		amount: "",
-		image: "https://s6.imgcdn.dev/YDWVkB.webp",
-	},
-	{
-		name: "Fischer Βίσματα",
-		description: "Άριστης ποιότητας βίσματα, με πολύ καλή εκτόνωση.",
-		category: "Ούπατ",
-		amount: "",
-		image: "https://s6.imgcdn.dev/YDW98q.webp",
-	},
-	/* Τέλος ούπατ */
 	{
 		name: "Ρόκα Στηρίγματα Καλωδίων",
 		description: "Διαθέσιμα σε πολλά διαφορετικά μεγέθη.",
