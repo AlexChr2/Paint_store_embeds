@@ -11,6 +11,13 @@ const Products = [
 		image: "https://s6.imgcdn.dev/JTuxO.webp",
 	},
 	{
+		name: "Δίσκος Κοπής Μετάλλου Inox FF Group",
+		description: "Φ115, Φ125x1.0",
+		category: "Δίσκος Κοπής Μετάλλου",
+		amount: "",
+		image: "https://s6.imgcdn.dev/JT4Hn.webp",
+	},
+	{
 		name: "Benman Δεματικά Καλωδίων Μαύρα 100 Τεμάχια",
 		description: "Διαστάσεις: 100x2.5mm, 140x2.5mm, 200x2.5mm, 140x3.6mm, 200x3.6mm, 250x3.6mm, 300x3.6mm, 370x3.6mm, 200x4.8mm, 250x4.8mm, 300x4.8mm, 370x4.8mm, 200x7.6mm, 250x7.6mm, 300x7.6mm, 370x7.6mm.",
 		category: "Δεματικά",
@@ -23,14 +30,6 @@ const Products = [
 		category: "Δεματικά",
 		amount: "",
 		image: "https://s6.imgcdn.dev/JxFkv.webp",
-	},
-
-	{
-		name: "Δίσκος Κοπής Μετάλλου Inox FF Group",
-		description: "Φ125x1.0",
-		category: "Δίσκος Κοπής Μετάλλου",
-		amount: "",
-		image: "https://s6.imgcdn.dev/JT4Hn.webp",
 	},
 
 	/*========
@@ -107,5 +106,12 @@ const Products = [
 		category: "Μάσκα",
 		amount: "",
 		image: "https://s6.imgcdn.dev/YYcoB2.webp",
+	},
+	{
+		name: "Μεταλλικό Δοχείο Λαδιού",
+		description: "Μεταλλικό Δοχείο Λαδιού 17lt.",
+		category: "Δοχείο Λαδιού",
+		amount: "",
+		image: "https://s6.imgcdn.dev/YYcdIB.webp",
 	},
 ]
