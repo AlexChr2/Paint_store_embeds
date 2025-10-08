@@ -38,13 +38,13 @@ body {
 .product-image-div {
 	min-width: 200px;
 	min-height: 200px;
+	display: flex;
 }
 
 /* a centered product image */
 .product-image {
 	display: block;
-	margin-left: auto;
-	margin-right: auto;
+	margin: auto;
 	max-width: 200px;
 	max-height: 200px;
 }
