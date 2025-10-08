@@ -200,7 +200,7 @@ p.small-leftright-padding {
 	height: 100%;
 	background: rgba(0, 0, 0, 0.5); /* Darkened background */
 	justify-content: center;
-	align-items: center;
+	align-items: start;
 	z-index: 1000; /* Ensure it appears above everything */
 	opacity: 0; /* Start fully transparent */
 	transition: opacity 0.3s ease-in-out; /* Smooth fade */
@@ -214,6 +214,7 @@ p.small-leftright-padding {
 
 /* Modal content with zoom effect */
 .modal-content {
+	margin-top: 30px; /* 30px distance from the top */
 	background: #2b2b2b;
 	border-radius: 10px;
 	position: relative;
