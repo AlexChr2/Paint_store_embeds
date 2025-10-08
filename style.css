@@ -280,7 +280,7 @@ p.small-leftright-padding {
 	.product-filters {
 		background: rgb(89 73 50);
 		position: fixed;
-		height: fit-content;
+		height: 70vh;
 
 		padding: 20px;
 
