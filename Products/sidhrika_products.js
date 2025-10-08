@@ -6,11 +6,4 @@ const Products = [
 		amount: "",
 		image: "https://s6.imgcdn.dev/YDWejT.webp",
 	},
-	{
-		name: "Δοχείο ελαιόλαδου 17 κιλών",
-		description: "Διαστάσεις δοχείου 236x236x347mm. Ιδιότητες δοχείου: Αδιαπέραστα από το φως και το οξυγόνο, διατηρούν την διατροφική αξία του περιεχομένου, ανθεκτικά για ασφαλή μεταφορά.",
-		category: "Δοχείο ελαιόλαδου",
-		amount: "",
-		image: "https://s6.imgcdn.dev/YYcdIB.webp",
-	},
 ]
