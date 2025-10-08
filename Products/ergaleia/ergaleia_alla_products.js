@@ -59,9 +59,9 @@ const Products = [
 	},
 
 	{
-		name: "Ρόκα Στηρίγματα Καλωδίων",
+		name: "Στηρίγματα Καλωδίων",
 		description: "Διαθέσιμα σε πολλά διαφορετικά μεγέθη.",
-		category: "Ρόκα",
+		category: "Ρόκα - Στηρίγματα Καλωδίων",
 		amount: "",
 		image: "https://s6.imgcdn.dev/YDWZ9N.webp",
 	},
@@ -108,8 +108,8 @@ const Products = [
 		image: "https://s6.imgcdn.dev/YYcoB2.webp",
 	},
 	{
-		name: "Μεταλλικό Δοχείο Λαδιού",
-		description: "Μεταλλικό Δοχείο Λαδιού 17lt.",
+		name: "Μεταλλικό Δοχείο Λαδιού 17lt",
+		description: "Διαστάσεις δοχείου 236x236x347mm. Ιδιότητες δοχείου: Αδιαπέραστα από το φως και το οξυγόνο, διατηρούν την διατροφική αξία του περιεχομένου, ανθεκτικά για ασφαλή μεταφορά.",
 		category: "Δοχείο Λαδιού",
 		amount: "",
 		image: "https://s6.imgcdn.dev/YYcdIB.webp",
