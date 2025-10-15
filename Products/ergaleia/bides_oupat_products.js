@@ -54,6 +54,13 @@ const Products = [
 		image: "https://s6.imgcdn.dev/YDtHeo.webp",
 	},
 	{
+		name: "Βίδες Μ5",
+		description: "",
+		category: "Βίδες",
+		amount: "",
+		image: "https://s6.imgcdn.dev/YDtHeo.webp",
+	},
+	{
 		name: "Βίδες Μ6",
 		description: "",
 		category: "Βίδες",
